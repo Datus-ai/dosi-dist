@@ -1,0 +1,62 @@
+Dosi (Datus OSI engine) — Proprietary Software License
+
+Copyright (c) 2025-present DatusAI, Inc. All rights reserved.
+
+This software and its accompanying documentation (the "Software") are the
+confidential and proprietary property of DatusAI, Inc. ("Datus"). The Software
+is licensed, not sold.
+
+1. GRANT
+
+   Subject to the terms of a separate written agreement with Datus, and to the
+   terms below, Datus grants you a non-exclusive, non-transferable, revocable
+   license to install and use the compiled Software internally, for the term
+   and on the scale set out in that agreement. Absent such an agreement, no
+   rights to use the Software are granted.
+
+2. RESTRICTIONS
+
+   You may not, in whole or in part:
+
+   (a) copy, publish, distribute, sublicense, rent, lease, or otherwise make
+       the Software available to any third party;
+   (b) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+       the source code, structure, or algorithms of the Software, except to the
+       extent this restriction is unenforceable under applicable law;
+   (c) modify or create derivative works of the Software;
+   (d) remove, obscure, or alter any proprietary notice contained in the
+       Software; or
+   (e) use the Software to build or assist in building a competing product.
+
+3. OWNERSHIP
+
+   Datus retains all right, title, and interest in and to the Software,
+   including all intellectual property rights therein. No rights are granted
+   except as expressly set out in this license.
+
+4. THIRD-PARTY COMPONENTS
+
+   The Software incorporates third-party open source components, which remain
+   subject to their own licenses. Those licenses govern your use of those
+   components and nothing in this license limits any right you have under them.
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL DATUS
+   BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, OR DATA, ARISING OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE.
+
+7. TERMINATION
+
+   This license terminates automatically if you breach any of its terms. On
+   termination you must cease all use of the Software and destroy all copies in
+   your possession.
+
+For licensing enquiries, contact DatusAI, Inc.
