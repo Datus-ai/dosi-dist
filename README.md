@@ -4,7 +4,10 @@ Download host for **Dosi** — the native engine for OSI (Open Semantic
 Interchange). This repository publishes **compiled release binaries only**. It
 contains no source code, and it is not where Dosi is developed.
 
-Dosi is proprietary software. See [LICENSE](LICENSE).
+Dosi is licensed under the [Elastic License 2.0](LICENSE) (ELv2): free to
+download, use, and redistribute, in production and commercially. You may not
+offer it to third parties as a hosted or managed service, circumvent its
+license key functionality, or remove its licensing notices.
 
 ## Install
 
@@ -54,5 +57,5 @@ REST and MCP APIs — lives at **https://dosi.datus.ai/**
 
 ## Issues
 
-This repository does not track Dosi issues. For support, licensing, or access,
-contact the Datus team.
+This repository does not track Dosi issues. For support, a hosting arrangement,
+or any use ELv2 does not allow, contact the Datus team.
